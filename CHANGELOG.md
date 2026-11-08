@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0
+
+- Every item lists what it contains and its calories; pressed juices and shots say how long they keep; cleanse plans show the price a day and the saving against single days; "A day on a plan" lists the six juices in order; an "Easy ways to start" row.
+
 ## 1.0.3
 
 - Demo email addresses now end in .example, so none can reach a real business. Organic wording now says "wherever we can source it" instead of "100% certified organic", and the USDA badge is gone: the demo cannot stand behind a certification. The juice plans are named by length ("3-Day Juice Plan") rather than "Reboot" and "Transform", and "wellness shots" are "juice shots".
